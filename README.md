@@ -1,3 +1,3 @@
 # titcollege-demo
 This is my Second Git Repository
-Author - Preetam Narwariya
+Author - Preetam (college)
